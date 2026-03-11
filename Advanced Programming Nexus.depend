@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1771178091 source:c:\users\administrator\downloads\advanced programming nexus\discountedproduct.cpp
+	"DiscountedProduct.h"
+
+1771177775 c:\users\administrator\downloads\advanced programming nexus\discountedproduct.h
+	"Product.h"
+
+1771618650 c:\users\administrator\downloads\advanced programming nexus\product.h
+	<string>
+
+1771680927 source:c:\users\administrator\downloads\advanced programming nexus\inventorymanager.cpp
+
+1772811864 source:c:\users\administrator\downloads\advanced programming nexus\main.cpp
+	<iostream>
+	<thread>
+	<vector>
+	"InventoryManagement.h"
+	"OrderProcessing.h"
+	"PerishableProduct.h"
+	"BulkProduct.h"
+	"ShippableProduct.h"
+
+1771154875 source:c:\users\administrator\downloads\advanced programming nexus\order.cpp
+
+1771154926 source:c:\users\administrator\downloads\advanced programming nexus\ordermanager.cpp
+
+1771618846 source:c:\users\administrator\downloads\advanced programming nexus\product.cpp
+	"Product.h"
+	<iostream>
+
+1771263800 source:c:\users\administrator\downloads\advanced programming nexus\taxableproduct.cpp
+	"TaxableProduct.h"
+
+1771177792 c:\users\administrator\downloads\advanced programming nexus\taxableproduct.h
+	"Product.h"
+
+1771683555 source:c:\users\administrator\downloads\advanced programming nexus\bulkproduct.cpp
+	"BulkProduct.h"
+	<iostream>
+
+1771614898 c:\users\administrator\downloads\advanced programming nexus\bulkproduct.h
+	"Product.h"
+
+1771608841 source:c:\users\administrator\downloads\advanced programming nexus\limitededitionproduct.cpp
+
+1771483997 c:\users\administrator\downloads\advanced programming nexus\limitededitionproduct.h
+	"Product.h"
+
+1771683542 source:c:\users\administrator\downloads\advanced programming nexus\perishableproduct.cpp
+	"PerishableProduct.h"
+	<iostream>
+
+1771677467 c:\users\administrator\downloads\advanced programming nexus\perishableproduct.h
+	"Product.h"
+
+1771619113 source:c:\users\administrator\downloads\advanced programming nexus\shippableproduct.cpp
+	"ShippableProduct.h"
+	<iostream>
+
+1771618410 c:\users\administrator\downloads\advanced programming nexus\shippableproduct.h
+	"Product.h"
+
+1772809252 source:c:\users\administrator\downloads\advanced programming nexus\inventorymanagement.cpp
+	"InventoryManagement.h"
+	<iostream>
+
+1772809201 c:\users\administrator\downloads\advanced programming nexus\inventorymanagement.h
+	<map>
+	<memory>
+	<mutex>
+	"Product.h"
+
+1772809869 source:c:\users\administrator\downloads\advanced programming nexus\orderprocessing.cpp
+	"OrderProcessing.h"
+	<iostream>
+	<thread>
+	<chrono>
+
+1771684715 c:\users\administrator\downloads\advanced programming nexus\orderprocessing.h
+	"InventoryManagement.h"
+
