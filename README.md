@@ -3,7 +3,6 @@
 
 ## 3️⃣ C++ Order Processing System (`README.md`)
 
-```markdown
 # C++ Order Processing System
 
 A console application in **C++** that processes product orders and manages inventory operations.
@@ -21,5 +20,5 @@ A console application in **C++** that processes product orders and manages inven
 ## How to Run
 1. Open the project folder in an IDE (e.g., Code::Blocks, VS Code)
 2. Compile the main program:
-```bash
+
 g++ main.cpp -o OrderSystem
